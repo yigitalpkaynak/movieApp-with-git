@@ -1,3 +1,5 @@
+Hosting URL: https://angular-movie-app-1cfc0.web.app
+
 # Movieapp
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.1.3.
